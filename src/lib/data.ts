@@ -21,7 +21,7 @@ export const PRODUCTS: Product[] = [
     img: "/images/product-shakti.jpg",
   },
   {
-    name: "Homie Kidz",
+    name: "Homei Kidz",
     sanskrit: "होमी बाल",
     tag: "Child Health & Vitality",
     desc: "Vedic oil ritual for strong roots, reduced hair fall and a natural, lustrous shine.",
