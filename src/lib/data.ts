@@ -22,7 +22,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     name: "Homei Kidz",
-    sanskrit: "होमी बाल",
+    sanskrit: "होमी किड्ज़",
     tag: "Child Health & Vitality",
     desc: "Vedic oil ritual for strong roots, reduced hair fall and a natural, lustrous shine.",
     ingredients: "Natural Homeo",
@@ -32,7 +32,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     name: "Homei Eye",
-    sanskrit: "होमी नेत्र",
+    sanskrit: "होमी दृष्टि",
     tag: "Eye Care & Vision Support",
     desc: "Kindles the sacred digestive fire — freedom from gas, acidity and a sluggish gut.",
     ingredients: "Natural Homeo",
@@ -52,7 +52,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     name: "Homei Digest",
-    sanskrit: "होमी पाचन",
+    sanskrit: "होमी डाइजेस्ट",
     tag: "Digestive Care Drops",
     desc: "Purifies the blood from within for clear, radiant, naturally glowing skin.",
     ingredients: "Natural Homeo",
@@ -62,7 +62,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     name: "Homei Adult",
-    sanskrit: "होमी वयस्क",
+    sanskrit: "होमी अडल्ट",
     tag: "Adult Vitality & Wellness",
     desc: "Calms the restless mind — deep, refreshing sleep without habit-forming sedatives.",
     ingredients: "Natural Homeo",
@@ -72,7 +72,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     name: "Homei Adolescent",
-    sanskrit: "होमी किशोर",
+    sanskrit: "होमी अडोलेसेन्ट",
     tag: "Teen Growth & Wellness",
     desc: "Rebuilds your ojas — all-day stamina, sharp focus and warrior-like vigour.",
     ingredients: "Natural Homeo",
