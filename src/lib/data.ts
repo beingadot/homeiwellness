@@ -18,7 +18,7 @@ export const PRODUCTS: Product[] = [
     ingredients: "Natural Homeo",
     price: 250,
     badge: "Bestseller",
-    img: "/images/homei.png",
+    img: "/images/blood.png",
   },
   {
     name: "Homei Kidz",
