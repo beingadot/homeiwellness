@@ -18,7 +18,7 @@ export const PRODUCTS: Product[] = [
     ingredients: "Natural Homeo",
     price: 250,
     badge: "Bestseller",
-    img: "/images/product-shakti.jpg",
+    img: "/images/homei.png",
   },
   {
     name: "Homei Kidz",
@@ -28,7 +28,7 @@ export const PRODUCTS: Product[] = [
     ingredients: "Natural Homeo",
     price: 250,
     badge: "Premium",
-    img: "/images/product-kesh.jpg",
+    img: "/images/kidz.png",
   },
   {
     name: "Homei Eye",
@@ -38,7 +38,7 @@ export const PRODUCTS: Product[] = [
     ingredients: "Natural Homeo",
     price: 250,
     badge: "Bestseller",
-    img: "/images/product-agni.jpg",
+    img: "/images/eye.png",
   },
   {
     name: "Homei Madhu",
@@ -48,7 +48,7 @@ export const PRODUCTS: Product[] = [
     ingredients: "Natural Homeo",
     price: 250,
     badge: "Premium",
-    img: "/images/product-sandhi.jpg",
+    img: "/images/madhu.png",
   },
   {
     name: "Homei Digest",
@@ -58,7 +58,7 @@ export const PRODUCTS: Product[] = [
     ingredients: "Natural Homeo",
     price: 250,
     badge: "Bestseller",
-    img: "/images/product-twacha.jpg",
+    img: "/images/digest.png",
   },
   {
     name: "Homei Adult",
@@ -68,7 +68,7 @@ export const PRODUCTS: Product[] = [
     ingredients: "Natural Homeo",
     price: 250,
     badge: "Premium",
-    img: "/images/product-manshanti.jpg",
+    img: "/images/adult.png",
   },
   {
     name: "Homei Adolescent",
@@ -78,7 +78,7 @@ export const PRODUCTS: Product[] = [
     ingredients: "Natural Homeo",
     price: 250,
     badge: "Bestseller",
-    img: "/images/product-ojas.jpg",
+    img: "/images/adolescent.png",
   },
 ];
 
